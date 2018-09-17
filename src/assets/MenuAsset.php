@@ -15,7 +15,7 @@ use yii\web\AssetBundle;
 
 class MenuAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/gearsoftware/yii2-menu/assets/source';
+    public $sourcePath = '@vendor/gearsoftware/yii2-menu/src/assets/source';
     public $css = [
         'css/menu.css',
     ];
